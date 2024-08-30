@@ -1,1 +1,1 @@
-# Weather-App
+This Weather app which built with react js and vite is a single page application that provides weather information of different cities and areas by fetching data from a weather API. React's component based architecture breaks the app into reusable parts, such as the main App component, a WeatherDisplay component for showing weather details and a serach component for user input. Styling is done using CSS or styled-components and error handling ensures smooth user experience by addressing issues like invalid input or api error.
